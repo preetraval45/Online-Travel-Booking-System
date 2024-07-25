@@ -1,0 +1,3 @@
+Beach Escape,499.99,7,Hawaii
+Mountain Adventure,299.99,5,Alps
+City Tour,199.99,3,New York
